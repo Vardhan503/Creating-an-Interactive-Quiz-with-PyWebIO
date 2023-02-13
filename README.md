@@ -35,7 +35,7 @@ Python and PyWebIO are the main technologies used in building this project.
 
 ## Setup
 
-Install my-project with cmd
+Install PywebIO with cmd
 
 Stable version:
 
